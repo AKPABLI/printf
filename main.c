@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-    printf("%s\n", "Best\nSchool");
+    printf("%b\n", 98);
     return (0);
 }
